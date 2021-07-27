@@ -1,5 +1,7 @@
 package day47_constructors;
 
+import java.util.*;
+
 public class AddressList {
     public static void main(String[] args) {
         Address cybertekAddress = new Address(); //calling the constructor automatically
