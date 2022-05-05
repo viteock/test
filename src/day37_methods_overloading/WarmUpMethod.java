@@ -25,7 +25,7 @@ public class WarmUpMethod {
             System.out.println("Something wrong with your credentials");
         }
 
-        // String ret = System.out.println("hello"); ERROR. it is void
+       // String ret = System.out.println("hello"); ERROR. it is void
     }
 
     public static void loginVoid(String userName, String password) {
@@ -42,7 +42,7 @@ public class WarmUpMethod {
     public static boolean login(String userName, String password) {
         String secretUserName = "cybertekStudent";
         String secretPassword = "abc123";
-        // return userName.equalsIgnoreCase(secretUserName) && password.equals(secretPassword);
+       // return userName.equalsIgnoreCase(secretUserName) && password.equals(secretPassword);
         if(userName.equalsIgnoreCase(secretUserName) && password.equals(secretPassword)) {
             return true; //return true, and exit method here. return false will not run
         }

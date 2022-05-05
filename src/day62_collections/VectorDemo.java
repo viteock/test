@@ -18,6 +18,9 @@ public class VectorDemo {
 
         System.out.println(states);
         //VECTOR is synchronized
+        nums.add(1);
+        nums.add(2);
+        System.out.println(nums);
 
     }
 }

@@ -8,7 +8,7 @@ public class QueueExamples {
 
         Queue<String> queue = new ArrayDeque<>();
         queue.add("one");
-//        queue.add("two");
+        queue.add("two");
 //        queue.add("three");
 //        queue.add("four");
 //        queue.add("five");

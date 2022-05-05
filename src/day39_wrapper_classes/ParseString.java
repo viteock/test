@@ -16,5 +16,6 @@ public class ParseString {
         String[] words = sentence.split(" ");
         int linesOfCode = Integer.parseInt(words[2]);
         System.out.println("linesOfCode = " + linesOfCode);
+
     }
 }

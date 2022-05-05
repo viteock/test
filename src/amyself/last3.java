@@ -24,5 +24,4 @@ public class last3 {
         System.out.println(m.arg1);
     }
 
-
 }

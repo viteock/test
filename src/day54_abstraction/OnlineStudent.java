@@ -15,6 +15,11 @@ public class OnlineStudent extends Student {
         System.out.println("Online student is attending the class using Zoom");
     }
 
+    @Override
+    public void alo() {
+
+    }
+
     //public abstract void askQuestion(); ERROR - abstract method cannot be in normal class
 
 }

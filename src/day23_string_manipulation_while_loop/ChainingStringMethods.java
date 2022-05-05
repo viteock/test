@@ -5,7 +5,7 @@ public class ChainingStringMethods {
 
         String word = "wooden spoon";
 
-        System.out.println(word.toUpperCase().toLowerCase().length());
+        System.out.println(word.toUpperCase().length());
         System.out.println(word);
 
         String word1 = "woo den spo on";

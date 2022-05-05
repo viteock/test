@@ -22,4 +22,5 @@ public abstract class Student {
      */
     public abstract void attendClass();
 
+    public abstract void alo();
 }
